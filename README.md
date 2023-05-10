@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/MCF-Org/WZML">
+    <a href="https://github.com/MCF-Org/WZ-Test">
         <kbd>
             <img width="250" src="https://telegra.ph/file/496644cbabaeb916e3616.png" alt="WeebZone Logo">
         </kbd>
@@ -9,7 +9,7 @@
 <p align="center">
 <div align=center>
 
-[![GitHub forks](https://img.shields.io/github/forks/weebzone/WZML?style=social)](https://github.com/MCF-Org/WZML/fork)
+[![GitHub forks](https://img.shields.io/github/forks/weebzone/WZML?style=social)](https://github.com/MCF-Org/WZ-Test/fork)
 [![GitHub followers](https://img.shields.io/github/followers/weebzone?style=social&label=weebzone%20Followers)](https://github.com/weebzone)
 
 ----
@@ -30,7 +30,7 @@
 ℹ️ A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching.|
 ---|
     
-### ***Source Code*** : [Repo](https://github.com/MCF-Org/WZML)
+### ***Source Code*** : [Repo](https://github.com/MCF-Org/WZ-Test)
 
 #### Note: `If you Like My Work, Give Stars ⭐ to the Repo and Follow Me on Github`
     
@@ -38,16 +38,16 @@
 </div>
 </p>
 
-### 1. [***Getting Started***](https://github.com/MCF-Org/WZML/wiki/Getting-Started)
+### 1. [***Getting Started***](https://github.com/MCF-Org/WZ-Test/wiki/Getting-Started)
 Introduction To the Bot
 
-### 2. [***Features***](https://github.com/MCF-Org/WZML/wiki/Features)
+### 2. [***Features***](https://github.com/MCF-Org/WZ-Test/wiki/Features)
 List of features supported by bot
 
-### 3. [***config.env Variables***](https://github.com/MCF-Org/WZML/wiki/Setting-up-the-config.env-file)
+### 3. [***config.env Variables***](https://github.com/MCF-Org/WZ-Test/wiki/Setting-up-the-config.env-file)
 List of Variables used by the Bot
 
-### 4. [***Deploy***](https://github.com/MCF-Org/WZML/wiki/Deployment)
+### 4. [***Deploy***](https://github.com/MCF-Org/WZ-Test/wiki/Deployment)
 Steps to Deploy the Bot to Run for Yourself
 
 ---
@@ -70,7 +70,7 @@ Copyright (C) 2022 WeebZone
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program. < https://github.com/MCF-Org/WZML/blob/update/LICENSE >.
+    along with this program. < https://github.com/MCF-Org/WZ-Test/blob/update/LICENSE >.
 ```
 
 ---
